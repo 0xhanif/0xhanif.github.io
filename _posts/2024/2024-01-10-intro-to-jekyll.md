@@ -22,5 +22,3 @@ bundle exec jekyll serve
 
 - <https://jekyllrb.com/>
 - <https://github.com/cotes2020/jekyll-theme-chirpy>
-
-- test
