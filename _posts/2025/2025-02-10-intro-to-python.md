@@ -212,5 +212,5 @@ In Python, indentation (spaces) is part of the syntax. If your code is not align
 
 ## Reference
 
-- [https://www.w3schools.com/python/default.asp](https://www.w3schools.com/python/default.asp)
-- [https://www.python.org/](https://www.python.org/)
+- <https://www.w3schools.com/python/default.asp>
+- <https://www.python.org/>

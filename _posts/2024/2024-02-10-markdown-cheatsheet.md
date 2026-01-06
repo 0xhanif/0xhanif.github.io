@@ -25,4 +25,4 @@ These elements are supported by almost all Markdown applications.
 
 ## Reference
 
-[https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
+<https://www.markdownguide.org/cheat-sheet/>

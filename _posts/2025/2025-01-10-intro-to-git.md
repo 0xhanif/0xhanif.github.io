@@ -65,5 +65,5 @@ git push origin main
 
 ## Reference
 
-- [https://git-scm.com/](https://git-scm.com/)
-- [https://github.com/git-guides](https://github.com/git-guides)
+- <https://git-scm.com/>
+- <https://github.com/git-guides>
